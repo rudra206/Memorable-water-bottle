@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Aqua Pure",
+    "brand": "AquaCo",
+    "size": "500ml",
+    "material": "Plastic",
+    "color": "Transparent",
+    "price": 20,
+    "stock": 120,
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/15/42/11/67/1000_F_1542116771_84VmpBtWtqdRi1Qukw49goBmC6OmD9BJ.jpg"
+  },
+  {
+    "id": 2,
+    "name": "FreshDrop",
+    "brand": "FreshLife",
+    "size": "1L",
+    "material": "Plastic",
+    "color": "Blue",
+    "price": 35,
+    "stock": 80,
+    "imageUrl": "https://as1.ftcdn.net/jpg/05/94/26/38/1024W_F_594263801_ZGHbZzm7rJSjsmOW6XTnXoiHC183Hr2O_NW1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Crystal Clear",
+    "brand": "ClearWave",
+    "size": "750ml",
+    "material": "Glass",
+    "color": "Transparent",
+    "price": 55,
+    "stock": 0,
+    "imageUrl": "https://as1.ftcdn.net/jpg/01/90/30/08/1024W_F_190300850_yQHwOI0qRauIlAnfU3iCd4x3Vpnuzi6n_NW1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "BlueSpring",
+    "brand": "BlueSpring Ltd",
+    "size": "1.5L",
+    "material": "Plastic",
+    "color": "Blue",
+    "price": 50,
+    "stock": 65,
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/03/02/51/86/1000_F_302518601_75TMYGjY49BTtBBY47mmJTEmkYDEsvXp.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nature’s Sip",
+    "brand": "EcoWater",
+    "size": "2L",
+    "material": "Plastic",
+    "color": "Green",
+    "price": 70,
+    "stock": 45,
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/02/85/79/28/1000_F_285792816_8bg5AdBOKPyShSomZBolaBgoi5Wbtdhs.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Eco Fresh",
+    "brand": "EcoPack",
+    "size": "500ml",
+    "material": "Glass",
+    "color": "Transparent",
+    "price": 40,
+    "stock": 0,
+    "imageUrl": "https://as1.ftcdn.net/jpg/04/42/16/26/1024W_F_442162648_X4tgE1tIPiVUYLDl5SyLp1QId0y75mwq_NW1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mountain Dew Bottle",
+    "brand": "PepsiCo",
+    "size": "1L",
+    "material": "Plastic",
+    "color": "Green",
+    "price": 45,
+    "stock": 150,
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/04/82/72/12/1000_F_482721259_yjeRXvHTQEI5qxvEP6bhtung3Yw0VhA6.jpg"
+  },
+  {
+    "id": 8,
+    "name": "HydroMax",
+    "brand": "HydroTech",
+    "size": "600ml",
+    "material": "Steel",
+    "color": "Silver",
+    "price": 120,
+    "stock": 30,
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/01/83/11/81/1000_F_183118187_wGDpOipAdcuZwPPGZQkC1ZkOllbjJOF6.jpg"
+  },
+  {
+    "id": 9,
+    "name": "ChillPro",
+    "brand": "ChillCo",
+    "size": "1.25L",
+    "material": "Plastic",
+    "color": "White",
+    "price": 55,
+    "stock": 0,
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/70/59/73/1000_F_270597330_bPHZSjTHujxjEgpyUSSGfsHebG2tKXJl.jpg"
+  },
+  {
+    "id": 10,
+    "name": "SmartHydrate",
+    "brand": "SmartGear",
+    "size": "2.5L",
+    "material": "Steel",
+    "color": "Black",
+    "price": 200,
+    "stock": 22,
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/05/75/35/93/1000_F_575359312_zpYZjhIuL395X9X7Ef0Cq57FkIdiZsi6.webp"
+  }
+]
