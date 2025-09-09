@@ -1,5 +1,5 @@
 import './Bottle.css'
-const Bottle = ({bottle}) => {
+const Bottle = ({bottle,handleAddToCard}) => {
     return (
         <div className="bottle">
             <p>Id: {bottle.id}</p>
@@ -8,6 +8,7 @@ const Bottle = ({bottle}) => {
             <p>Price: ${bottle.price}</p>
             <p>Stock: {bottle.stock}</p>
             <p>Size: {bottle.size}</p>
+            <button onClick={ ()=>handleAddToCard (bottle)}>Purchase</button>
 
 
         </div>
